@@ -4,3 +4,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+Header img {
+    margin: auto;
+    display: block;
+    width: 12em;
+}
